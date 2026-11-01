@@ -24,3 +24,7 @@ Passo é um app pessoal de corrida e caminhada. O primeiro corte serve uma pesso
 - Liste estados e eventos da sessão.
 - Esboce critérios para ignorar pontos GPS ruidosos e como testar com fake.
 - Registre escolhas de precisão, frequência e bateria em `DECISIONS.md`.
+
+## Acessibilidade
+
+escala de fonte, certifique-se de não fixar alturas rígidas em containers com texto, deixando o MediaQuery.textScalerOf(context) escalar os textos livremente sem cortar os componentes
